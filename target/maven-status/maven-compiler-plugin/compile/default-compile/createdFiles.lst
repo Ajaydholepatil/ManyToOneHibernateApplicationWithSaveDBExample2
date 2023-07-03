@@ -1,0 +1,4 @@
+org\example\entity\Students.class
+org\example\test\ManyToOneHibernateApplicationWithSaveData.class
+org\example\test\ManyToOneHibernateApplicationWithFecthData.class
+org\example\entity\University.class
